@@ -1,6 +1,14 @@
-# Randow-Lines
+# Randow-Lines 🎮
+## 📃 Descrição
 Randow Lines
 Site em formato de linhas em movimentos
-veja em :
-http://www.thenilson.com/randow/
-todo realizado em HTML5, CSS e  Javascript
+## 🖱️ Acesso
+A Interface Web pode ser acessada [aqui](http://www.thenilson.com/randowlines/).
+## 💻 Tecnologias Utilizadas
+Foram utilizadas as seguintes tecnologias para o desenvolvimento:
+- HTML
+- CSS
+- JavaScript
+
+
+
